@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+.env
+.env.*
+__pycache__/
+*.pyc
+
+# Archivos de configuración sensibles
+config.yaml
+config/*.yaml
+
+# Archivos de logs
+logs/
+*.log
+
+# Archivos de datos temporales
+data/
+*.tmp
+
+# Notebooks de ejecución
+*.ipynb_checkpoints
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de modelos grandes (si los hubiera)
+models/

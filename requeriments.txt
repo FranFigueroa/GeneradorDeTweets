@@ -1,0 +1,6 @@
+openai
+transformers
+tweepy
+pyyaml
+python-dotenv
+schedule
