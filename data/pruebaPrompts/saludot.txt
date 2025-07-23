@@ -1,0 +1,1 @@
+Crea un tweet amistoso para saludar a los seguidores en la mañana. Usa un tono positivo y agrega un emoji
