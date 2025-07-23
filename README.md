@@ -71,7 +71,13 @@ pytest
 - Modifica la lógica de memoria en `src/memory.py`.
 
 ---
+## Mejoras Futuras
 
+- Se planea agregar una funcionalidad para que el usuario pueda seleccionar fácilmente el tipo de tweets que desea publicar (motivacional, noticia, humor, etc.) sin modificar el código.
+- Se implementará una interfaz más amigable para la configuración y el uso del generador.
+- Otras mejoras para facilitar la personalización y la experiencia de usuario. 
+
+---
 ## Licencia
 
 MIT
